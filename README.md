@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/<username>/svg)](https://tokscale.ai/u/<doramonz>)
+[![Tokscale Stats](https://tokscale.ai/api/embed/doramonz/svg)](https://tokscale.ai/u/doramonz)
