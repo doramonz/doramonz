@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![doraemon](https://github.com/doramonz/doramonz/assets/32805709/ad282caa-e56b-4bc6-a26e-47ab9aa7b2c2)
+[![Tokscale Stats](https://tokscale.ai/api/embed/<username>/svg)](https://tokscale.ai/u/<doramonz>)
